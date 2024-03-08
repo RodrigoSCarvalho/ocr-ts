@@ -1,0 +1,8 @@
+Comparison Report:
+
+oracle.txt and brightness.txt: 0.96
+oracle.txt and geometric.txt: 0.57
+oracle.txt and original.txt: 0.96
+oracle.txt and resolution.txt: 0.26
+oracle.txt and result.txt: 0.03
+oracle.txt and rotation.txt: 0.46
